@@ -1,4 +1,6 @@
-# All Linux commend
+# All Linux commend <p align="left">
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="360" height="360" alt="Linux" /></a>
+</p>
 
 <details>
   <summary><h3>File Management</h3></summary>
